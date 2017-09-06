@@ -12,7 +12,10 @@ var preScript = preload("res://scripts/softnoise.gd")
 var softnoise
 
 func _ready():
+	#Random
 	softnoise = preScript.SoftNoise.new()
+	#Passing a seed
+	softnoise = preScript.SoftNoise.new(1729)
 	
 	softnoise.simple_noise1d(x)
 	softnoise.simple_noise2d(x, y)
