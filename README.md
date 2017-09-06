@@ -1,4 +1,4 @@
-# SoftNoise2D-GDScript-
+# SoftNoise-GDScript-
 GDScript function set generating noise (value noise, perlin noise ...).
 
 ## Example of how to use:
