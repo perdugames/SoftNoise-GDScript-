@@ -32,6 +32,7 @@ Map generated using the **perlin_noise2d()** function.
 ![SofNoise2D screenshot](map_sofnoise2d_perdugames.png)
 
 Map generated using the **openSimplex2D()** function.
+
 ![SofNoise2D screenshot](map_opensimplex2d_perdugames.png)
 
 
