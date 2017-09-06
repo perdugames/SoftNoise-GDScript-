@@ -22,7 +22,7 @@ func _ready():
 	
 ```
 ### Preview
-Map generated using the perlin_noise2d() function
+Map generated using the **perlin_noise2d()** function
 
 ![SofNoise2D screenshot](map_sofnoise2d_perdugames.png)
 
