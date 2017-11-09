@@ -160,6 +160,9 @@ class SoftNoise:
 		for i in range(256):
 			gx.append(float(randf())/(32767/2) - 1.0)
 			gy.append(float(randf())/(32767/2) - 1.0)
+		#for i in range(256):
+    		#	gx.append(2.0 * randf() - 1.0)
+    		#	gy.append(2.0 * randf() - 1.0)
 	
 	func perlin_noise2d(var x, var y):
 		#Compute the integer positions of the four surrounding points
