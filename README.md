@@ -38,5 +38,5 @@ Map generated using the **openSimplex2D()** function.
 
 ![SofNoise2D screenshot](map_opensimplex2d_perdugames.png)
 
-
-
+### Important note
+Be sure that your input values (`x`, `y` or `z` from the example above) are scaled by some sort of scalar value or use `sqrt` on them else you won't get a natural look on your maps.
